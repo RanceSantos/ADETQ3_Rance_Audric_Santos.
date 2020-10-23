@@ -1,0 +1,38 @@
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.exe
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.deps.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.runtimeconfig.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.runtimeconfig.dev.json
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.dll
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.pdb
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.Views.dll
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\bin\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.Views.pdb
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.csprojAssemblyReference.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.AssemblyInfoInputs.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.AssemblyInfo.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.csproj.CoreCompileInputs.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.RazorAssemblyInfo.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.RazorAssemblyInfo.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.TagHelpers.input.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.TagHelpers.output.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.RazorCoreGenerate.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.RazorTargetAssemblyInfo.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.RazorTargetAssemblyInfo.cs
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.Views.pdb
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\staticwebassets\ADETQ3_Rance Audric_Santos.StaticWebAssets.Manifest.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\staticwebassets\ADETQ3_Rance Audric_Santos.StaticWebAssets.xml
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.dll
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.pdb
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.genruntimeconfig.cache
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\ADETQ3_Rance Audric_Santos.csproj.CopyComplete
+C:\Users\Rance Audric\source\repos\ADETQ3_Rance Audric_Santos\ADETQ3_Rance Audric_Santos\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
